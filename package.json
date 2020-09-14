@@ -1,0 +1,16 @@
+{
+    "name": "com.sourav.reffinder",
+    "displayName": "Sourav RefeenceFinder Package",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "A simple reference finder to find references in Unity",
+    "author": {
+        "name": "Sourav Chatterjee",
+        "email": "sromic@gmail.com"
+    },
+    "keywords": [
+        "Reference Finder",
+        "Unity",
+        "Sourav"
+      ]
+}
